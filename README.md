@@ -1,3 +1,5 @@
+**Live Dashboard:** https://hemantkjha-data.github.io/hr-analytics-attrition/dashboard/
+
 # 👥 HR Analytics — Attrition Dashboard
 
 **Business question:** *Who is leaving, why are they leaving, and what should HR fix first?*
